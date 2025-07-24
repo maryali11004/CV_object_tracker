@@ -25,6 +25,7 @@ python object_tracker.py --video path/to/video.mp4 --tracker csrt
   - **Press space** to apply it
   -**Press q** to quit the program
 ## Rrquirements:
+Before running the program , make sure you have the following requiremets -->
 - `OpenCV`
 - `imutils`
 - Python3.6+
