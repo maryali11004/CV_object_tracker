@@ -14,8 +14,11 @@ Using OpenCV Ready  object tracking Implementations , this program allows the us
 - Run with webcam:
 ```bash
 python object_tracker.py --tracker kcf
+```
 - Run with video File:
+```
 python object_tracker.py --video path/to/video.mp4 --tracker csrt
+```
 - After running the command in your terminal:
   - **Press s** To stop the video.
   - Select the object using the bounding box
