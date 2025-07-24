@@ -23,4 +23,8 @@ python object_tracker.py --video path/to/video.mp4 --tracker csrt
   - **Press s** To stop the video.
   - Select the object using the bounding box
   - **Press space** to apply it
-  -**Press q** to quit the program 
+  -**Press q** to quit the program
+## Rrquirements:
+- `OpenCV`
+- `imutils`
+- Python3.6+
